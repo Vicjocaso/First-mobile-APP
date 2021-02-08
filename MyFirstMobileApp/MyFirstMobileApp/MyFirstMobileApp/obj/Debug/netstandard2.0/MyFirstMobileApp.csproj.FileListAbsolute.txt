@@ -1,0 +1,14 @@
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MyFirstMobileApp.csprojAssemblyReference.cache
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MyFirstMobileApp.AssemblyInfoInputs.cache
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MyFirstMobileApp.AssemblyInfo.cs
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MyFirstMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\bin\Debug\netstandard2.0\MyFirstMobileApp.deps.json
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\bin\Debug\netstandard2.0\MyFirstMobileApp.dll
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\bin\Debug\netstandard2.0\ref\MyFirstMobileApp.dll
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\bin\Debug\netstandard2.0\MyFirstMobileApp.pdb
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MyFirstMobileApp.dll
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\ref\MyFirstMobileApp.dll
+C:\Users\vicjo\source\repos\MyFirstMobileApp\MyFirstMobileApp\MyFirstMobileApp\obj\Debug\netstandard2.0\MyFirstMobileApp.pdb
